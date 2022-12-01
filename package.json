@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://ms-borovilis-class.github.io/portfolio-final-assignment-{username}'",
+    "build-gh": "parcel build --public-url 'https://ms-borovilis-class.github.io/portfolio-final-assignment-jojosonix'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
